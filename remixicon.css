@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "remixicon";
+  src: url('https://cdn.jsdelivr.net/gh/scopor/cdn@1.0.7/remixicon.eot?t=1553697486737'); /* IE9*/
+  src: url('https://cdn.jsdelivr.net/gh/scopor/cdn@1.0.7/remixicon.eot?t=1553697486737#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("https://cdn.jsdelivr.net/gh/scopor/cdn@1.0.7/remixicon.woff2?t=1553697486737") format("woff2"),
+  url("https://cdn.jsdelivr.net/gh/scopor/cdn@1.0.7/remixicon.woff?t=1553697486737") format("woff"),
+  url('https://cdn.jsdelivr.net/gh/scopor/cdn@1.0.7/remixicon.ttf?t=1553697486737') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('https://cdn.jsdelivr.net/gh/scopor/cdn@1.0.7/remixicon.svg?t=1553697486737#remixicon') format('svg'); /* iOS 4.1- */
+}
+
+[class^="remixicon-"], [class*=" remixicon-"] {
+  font-family: 'remixicon' !important;
+  font-size:14px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
